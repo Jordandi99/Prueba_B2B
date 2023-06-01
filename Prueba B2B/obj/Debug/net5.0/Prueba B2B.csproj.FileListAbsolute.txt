@@ -1,0 +1,23 @@
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\bin\Debug\net5.0\Prueba B2B.exe
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\bin\Debug\net5.0\Prueba B2B.deps.json
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\bin\Debug\net5.0\Prueba B2B.runtimeconfig.json
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\bin\Debug\net5.0\Prueba B2B.runtimeconfig.dev.json
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\bin\Debug\net5.0\Prueba B2B.dll
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\bin\Debug\net5.0\ref\Prueba B2B.dll
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\bin\Debug\net5.0\Prueba B2B.pdb
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\obj\Debug\net5.0\Prueba B2B.csproj.AssemblyReference.cache
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\obj\Debug\net5.0\Prueba B2B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\obj\Debug\net5.0\Prueba B2B.AssemblyInfoInputs.cache
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\obj\Debug\net5.0\Prueba B2B.AssemblyInfo.cs
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\obj\Debug\net5.0\Prueba B2B.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\obj\Debug\net5.0\Prueba B2B.csproj.CopyComplete
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\obj\Debug\net5.0\Prueba B2B.dll
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\obj\Debug\net5.0\ref\Prueba B2B.dll
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\obj\Debug\net5.0\Prueba B2B.pdb
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\obj\Debug\net5.0\Prueba B2B.genruntimeconfig.cache
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\bin\Debug\net5.0\RestSharp.dll
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Jordan Diaz\Desktop\Prueba B2B\Prueba B2B\bin\Debug\net5.0\System.Text.Json.dll
